@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42295268612",
+    "project_id": "bagrutfinal132",
+    "storage_bucket": "bagrutfinal132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42295268612:android:72909503d3122a39a2ac51",
+        "android_client_info": {
+          "package_name": "com.example.cursored"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMCAOnW38XXeB-nGvoP0DsBvFhaxhfcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
